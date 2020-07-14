@@ -1,1 +1,1 @@
-<div style="width:100%;height:110px;background-image:url(hello.png);background-repeat: no-repeat"></div>
+![](hello.png)
