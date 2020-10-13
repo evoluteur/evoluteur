@@ -1,1 +1,1 @@
-<a href="https://evoluteur.github.io"><img src="https://raw.githubusercontent.com/evoluteur/evoluteur/master/hello.png"></a>
+<a href="https://evoluteur.github.io"><img src="https://raw.githubusercontent.com/evoluteur/evoluteur/master/hello.gif"></a>
